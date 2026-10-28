@@ -1,4 +1,4 @@
-# Automated Time-Series Extraction Along a Railway Profile Using LiCSBAS
+# Automated Time-Series Extraction Using LiCSBAS
 
 ## Overview
 This script automates the extraction of InSAR time-series displacement at a set of geographic locations along a railway profile using **LiCSBAS**. The geographic coordinates are read from `Locations_on_railway.txt`, and `LiCSBAS_cum2tstxt.py` is automatically executed for each location to extract the corresponding cumulative displacement time series from the LiCSBAS `cum.h5` dataset. The script sequentially reads the geographic coordinates and performs automated point-wise time-series extraction. This is useful for analyzing deformation along linear infrastructure such as railways, roads, pipelines, and tunnels.
