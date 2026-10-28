@@ -1,6 +1,6 @@
 # InSAR vs. Machine-Learning Displacement Error Profile
 
-This README describes the provided data file `EW-AA.csv` and the Python plotting script `LinePlot With coloring Background Shahgheyb .txt`. Together they produce a two-panel profile plot comparing the east–west (E-W) displacement rate estimated by InSAR with the RFR and SVR machine-learning models along profile AA′, as a component of Fig. 8 of the associated study. Background shading highlights whether each model agrees with InSAR within a ±3 threshold.
+This README describes the provided data file `EW-AA.csv` and the Python plotting script `code.py`. Together they produce a two-panel profile plot comparing the east–west (E-W) displacement rate estimated by InSAR with the RFR and SVR machine-learning models along profile AA′, as a component of Fig. 8 of the associated study. Background shading highlights whether each model agrees with InSAR within a ±3 threshold.
 
 ---
 
